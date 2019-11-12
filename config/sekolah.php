@@ -22,7 +22,7 @@ return [
 
     'home_feature_colum_2_title' => 'Lingkungan Nyaman',
     'home_feature_colum_2_content' => 'Kami sangat memperhatikan kenyamanan lingkungan bagi para siswa dalam belajar',
-    'home_feature_colum_2_link_text' => 'Daftar',
+    'home_feature_colum_2_link_text' => 'Register',
     'home_feature_colum_2_link_url' => '/register',
 
     'home_feature_colum_3_title' => 'Kurikulum terupdate',
